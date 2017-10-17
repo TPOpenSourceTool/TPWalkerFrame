@@ -1,0 +1,6 @@
+framework module TPWalkerFrame {
+  umbrella header "TPWalkerFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

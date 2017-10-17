@@ -1,0 +1,16 @@
+PODS:
+  - TPWalkerFrame (0.1.0)
+
+DEPENDENCIES:
+  - TPWalkerFrame (from `../`)
+
+EXTERNAL SOURCES:
+  TPWalkerFrame:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TPWalkerFrame: e699afa6aca0a8273cc740d60401d0a69edb10e3
+
+PODFILE CHECKSUM: c2fb220fe2bb67f0d75be9d472fc8c07b0cc9df6
+
+COCOAPODS: 1.2.1
