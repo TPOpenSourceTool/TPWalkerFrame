@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TPWalkerFrame_Example' do
+  pod 'TPWalkerFrame', :path => '../'
+
+  target 'TPWalkerFrame_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
